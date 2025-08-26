@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **IoannaDamianov/IoannaDamianov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
---> i dont know what i'm doing
+
 
